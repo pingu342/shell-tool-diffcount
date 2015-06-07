@@ -4,6 +4,15 @@
 
 Compare the two directories to count the number of changed lines.
 
+File that have following extensions to be counted.
+
+* m
+* c
+* h
+* java
+* cc
+* cpp
+
 ## Example
 
 * Show the differences between test/ and test_/.
