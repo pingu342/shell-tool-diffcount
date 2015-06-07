@@ -1,4 +1,4 @@
-# shell-tool-diffcount
+# diffcount
 
 ## Summary
 
