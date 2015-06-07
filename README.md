@@ -2,7 +2,7 @@
 
 ## Summary
 
-2つのディレクトリに含まれるファイルを比較し、変更行数をカウントする。
+Compare the two directories to count the number of changed lines.
 
 ## Example
 
